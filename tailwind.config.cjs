@@ -10,7 +10,7 @@ module.exports = {
     },
     extend: {
       backgroundImage: {
-        'dark-square': "url('./src/assets/repeated-square-dark-pattern.webp')",
+        'dark-square': "url('./assets/repeated-square-dark-pattern.webp')",
       }
     },
   },
