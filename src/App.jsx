@@ -46,6 +46,8 @@ function App() {
           </div>
         </div>
       </div>
+      <div className="absolute z-[2] w-[25%] h-[30%] -left-[20%] -top-10 white__gradient"></div>
+      <div className="absolute z-[0] w-[50%] h-[70%] -right-[45%] -bottom-10 blue__gradient"></div>
     </div>
   );
 }
