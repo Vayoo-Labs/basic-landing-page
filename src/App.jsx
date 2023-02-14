@@ -1,3 +1,6 @@
+import twitterLogo from "./assets/twitter-logo.svg";
+import telegramLogo from "./assets/telegram-logo.svg";
+
 function App() {
   return (
     <div className="App">
@@ -26,8 +29,8 @@ function App() {
               >
                 <img
                   class="h-6"
-                  src="/src/assets/twitter-logo.svg"
-                  alt="Solana"
+                  src={twitterLogo}
+                  alt="Twitter of Vayoo Markets"
                 />
               </a>
             </div>
@@ -38,8 +41,8 @@ function App() {
               >
                 <img
                   class="h-6"
-                  src="/src/assets/telegram-logo.svg"
-                  alt="Solana"
+                  src={telegramLogo}
+                  alt="Telegram Channel of Vayoo Markets"
                 />
               </a>
             </div>
