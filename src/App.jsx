@@ -38,7 +38,7 @@ function App() {
               <div class="ml-3">
                 <a
                   class="hover:opacity-70 transition duration-200 ease-in-out"
-                  href="#"
+                  href="https://t.me/+UrUNxjJxU1w1NTg1"
                 >
                   <img
                     class="h-6"
