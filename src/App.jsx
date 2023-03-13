@@ -21,8 +21,12 @@ function App() {
             <h1 class="ml-2 md:ml-3 mt-2 font-roboto font- italic text-2xl text-gray-400">
               tradeFi synthetics
             </h1>
-
-            <div class="mt-4 flex items-center">
+            <div className="ml-2 mt-5 text-md text-gray-300 hover:underline-offset-4 hover:underline rounded-xl border-2 border-gray-600 px-4 py-2 w-36">
+              <a href="https://vayoo-markets.gitbook.io/vayoo-labs-docs/">
+                Read the Docs
+              </a>
+            </div>
+            <div class="mt-10 flex items-center">
               <div class="ml-3">
                 <a
                   class="hover:opacity-70 transition duration-200 ease-in-out"
@@ -48,6 +52,7 @@ function App() {
                 </a>
               </div>
             </div>
+            
           </div>
 
         </div>
