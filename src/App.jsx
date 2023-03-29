@@ -23,9 +23,9 @@ function App() {
             </h1>
     <div className="flex gap-2">
 
-            <a href="https://alpha.vayoo.markets/">
+            <a href="https://trade.vayoo.markets/">
               <div className="ml-2 mt-5 text-md text-gray-300 hover:text-gray-200 rounded-xl border-2 border-lime-200/50 px-4 py-2 hover:border-lime-200/70">
-                Launch Alpha
+                Launch App
               </div>
             </a>
             <a href="https://vayoo-markets.gitbook.io/vayoo-labs-docs/">
