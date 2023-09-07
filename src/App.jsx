@@ -8,22 +8,21 @@ function App() {
       <div className="relative h-screen w-screen bg-black overflow-hidden">
         <div className="flex flex-col flex-1 items-center justify-center h-screen w-screen bg-dark-square">
           <div
-            className="md:ml-0 ml-[30px]
-      "
+            className="md:ml-0 ml-1"
           >
-            <img src={vayooMarketsLogo} alt="" className="h-20" />
+            <img src={vayooMarketsLogo} alt="" className="ml-1 h-12 md:ml-0 md:h-20" />
 
             <h1 className="ml-2 md:ml-3 mt-5 font-akku-light text-2xl text-gray-400">
               tradeFi synthetics
             </h1>
             <div className="flex gap-2 -mt-1">
               <a href="https://trade.vayoo.markets/">
-                <div className="font-akku-mono ml-2 mt-5 text-md text-gray-300 hover:text-gray-200 rounded-xl border-2 border-lime-200/50 px-4 py-2 hover:border-lime-200/70">
+                <div className="font-akku-mono ml-2 mt-5 text-sm md:text-md text-gray-300 hover:text-gray-200 rounded-xl border-2 border-lime-200/50 px-4 py-2 hover:border-lime-200/70">
                   Launch App
                 </div>
               </a>
               <a href="https://vayoo-markets.gitbook.io/vayoo-labs-docs/">
-                <div className="font-akku-mono ml-2 mt-5 text-md text-gray-400 rounded-xl border-2 border-gray-600 px-4 py-2 w-42 hover:border-gray-400/70">
+                <div className="font-akku-mono ml-2 mt-5 text-sm md:text-md text-gray-400 rounded-xl border-2 border-gray-600 px-4 py-2 w-42 hover:border-gray-400/70">
                   Read the Docs
                 </div>
               </a>
