@@ -2,6 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: "AkkuratLL-Light";
+  src: url("./assets/AkkuratLL-Light.otf");
+}
+
+@font-face {
+  font-family: "AkkuratLL-Mono-Regular";
+  src: url("./assets/AkkuratMonoLL-Regular.otf");
+}
+
 :root {
   --black-gradient: linear-gradient(
     144.39deg,

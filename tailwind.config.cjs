@@ -7,6 +7,8 @@ module.exports = {
   theme: {
     fontFamily: {
       'roboto': 'Roboto, sans-serif',
+      'akku-light': 'AkkuratLL-Light',
+      'akku-mono' : 'AkkuratLL-Mono-Regular'
     },
     extend: {
       backgroundImage: {
